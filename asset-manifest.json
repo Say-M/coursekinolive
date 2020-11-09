@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Say-M/coursekinolive/static/css/main.649d907b.chunk.css",
-    "main.js": "/Say-M/coursekinolive/static/js/main.a0350184.chunk.js",
-    "main.js.map": "/Say-M/coursekinolive/static/js/main.a0350184.chunk.js.map",
-    "runtime-main.js": "/Say-M/coursekinolive/static/js/runtime-main.2a6e412e.js",
-    "runtime-main.js.map": "/Say-M/coursekinolive/static/js/runtime-main.2a6e412e.js.map",
-    "static/js/2.018dcd5e.chunk.js": "/Say-M/coursekinolive/static/js/2.018dcd5e.chunk.js",
-    "static/js/2.018dcd5e.chunk.js.map": "/Say-M/coursekinolive/static/js/2.018dcd5e.chunk.js.map",
-    "index.html": "/Say-M/coursekinolive/index.html",
-    "static/css/main.649d907b.chunk.css.map": "/Say-M/coursekinolive/static/css/main.649d907b.chunk.css.map",
-    "static/js/2.018dcd5e.chunk.js.LICENSE.txt": "/Say-M/coursekinolive/static/js/2.018dcd5e.chunk.js.LICENSE.txt",
-    "static/media/03.aa6843bb.png": "/Say-M/coursekinolive/static/media/03.aa6843bb.png",
-    "static/media/4419000.cdcc4545.png": "/Say-M/coursekinolive/static/media/4419000.cdcc4545.png"
+    "main.css": "/coursekinolive/static/css/main.649d907b.chunk.css",
+    "main.js": "/coursekinolive/static/js/main.a0350184.chunk.js",
+    "main.js.map": "/coursekinolive/static/js/main.a0350184.chunk.js.map",
+    "runtime-main.js": "/coursekinolive/static/js/runtime-main.7e9aafa3.js",
+    "runtime-main.js.map": "/coursekinolive/static/js/runtime-main.7e9aafa3.js.map",
+    "static/js/2.018dcd5e.chunk.js": "/coursekinolive/static/js/2.018dcd5e.chunk.js",
+    "static/js/2.018dcd5e.chunk.js.map": "/coursekinolive/static/js/2.018dcd5e.chunk.js.map",
+    "index.html": "/coursekinolive/index.html",
+    "static/css/main.649d907b.chunk.css.map": "/coursekinolive/static/css/main.649d907b.chunk.css.map",
+    "static/js/2.018dcd5e.chunk.js.LICENSE.txt": "/coursekinolive/static/js/2.018dcd5e.chunk.js.LICENSE.txt",
+    "static/media/03.aa6843bb.png": "/coursekinolive/static/media/03.aa6843bb.png",
+    "static/media/4419000.cdcc4545.png": "/coursekinolive/static/media/4419000.cdcc4545.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a6e412e.js",
+    "static/js/runtime-main.7e9aafa3.js",
     "static/js/2.018dcd5e.chunk.js",
     "static/css/main.649d907b.chunk.css",
     "static/js/main.a0350184.chunk.js"
