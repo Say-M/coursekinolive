@@ -1,0 +1,47 @@
+/* Navbar */
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem rgba(52, 197, 93, 0.25);
+}
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(52, 197, 93, 0.25);
+  border-color: rgb(146, 227, 169);
+}
+/* Search */
+.search {
+  width: 50%;
+  margin: 0 auto;
+  @media screen and (max-width: 992px) {
+    width: 60%;
+  }
+  @media screen and (max-width: 600px) {
+    width: 70%;
+  }
+  @media screen and (max-width: 450px) {
+    width: 80%;
+  }
+
+  input {
+    width: 100%;
+    border: 2px solid $link_font_color !important;
+    padding: 0 1rem !important;
+    border-radius: 0.4rem !important;
+    &:focus {
+      box-shadow: 0 0 0.3rem $link_font_color !important;
+    }
+  }
+}
+
+//Custom buttons
+.btn-theme {
+  // background: linear-gradient(135deg, $base_color1, $base_color2) !important;
+  background: #72ce9d !important;
+  font-weight: 600;
+  // border-radius: 50rem !important;
+  height: 40px !important;
+  line-height: 36px !important;
+  font-size: 15px !important;
+  padding: 0 48px !important;
+  &:hover {
+    background: $base_color2;
+  }
+}
